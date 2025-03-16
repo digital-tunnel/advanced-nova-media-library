@@ -1,4 +1,6 @@
 # Laravel Advanced Nova Media Library
+This package forked from [ebess/advanced-nova-media-library](https://github.com/ebess/advanced-nova-media-library)
+to supporting Laravel 12 and Nova 5.0
 
 Manage images of [spatie's media library package](https://github.com/spatie/laravel-medialibrary). Upload multiple
 images and order them by drag and drop.
